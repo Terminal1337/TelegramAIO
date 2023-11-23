@@ -1,0 +1,20 @@
+{
+    "api_id":"",
+    "api_hash": "",
+    "cooldown" : 2,
+    "debug" : true,
+    "5sim" : {
+        "active" : false,
+        "key" : "WQ1ZTc0MWZkOWYxYTU1ZGY5NzU3MTkiLCJzdWIiOjg5MjUwMn0.rLmhoGdV35bekgPsUVgZI8WLi8Hc5mky-dQKEwHGFZVnCoOQkuVEg7LLZidizY2MIGdxUS4tQsAebsjRW2fzcOE7uQRyMoqI6q-qRhT2N-GjtWQjrDIcwRZmA8e575CYZAbVLE_e_NCjr2FoviRflnoM5shoCoW0IoPqWVXfSMyLp-CN_tOX-lHZGBszoScyINreZlb86HfnqdGFzZJHV4XtQ-yFKhND_RmZcmJL2WWAlpkdbpNszv1YuS7Z61HGfwQGy1Jq2WlBnup84Mm6EybhNdCKTNVc4_lZWlUdtytZZzHq1J8q-nbA2fQXrYV9MEnsnIwQDx82r3bSIT1JfA",
+        "country" : "indonesia",
+        "provider" : "any"
+
+    },
+    "sms-activate" : {
+        "active" : true,
+        "key" : "",
+        "country" : "indonesia"
+    } 
+    
+
+}
